@@ -1,2 +1,2 @@
-A ToDo app built with react
+A simple ToDo app built with react
 
